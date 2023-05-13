@@ -1,3 +1,5 @@
+6th semester 
+
 Moore-Penrose inverse can be used to interpolate a given measured function by a set of approach functions i.e x, x^2, sin(x), e^x etc.
 
 weighting parameters can be interpretet as a measure of correlation (xdach) between approach (sym) and function the data is sampled from (b)
